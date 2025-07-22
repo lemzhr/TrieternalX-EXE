@@ -1,3 +1,9 @@
+# TrieternalX - Komponen Python
+#
+# Copyright (c) 2025 The TrieternalX Authors
+# Izin diberikan sesuai Lisensi MIT
+# Lihat file LICENSE.txt untuk informasi lebih lanjut
+
 import tkinter as tk
 from tkinter import messagebox, Menu
 import requests
